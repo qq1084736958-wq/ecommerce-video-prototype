@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-video-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI 电商短视频生产工作台高保真原型：商品事实确认 → 主脚本 → 多平台/多语言版本 → 可复用资产。",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "5.0.4",
+    "lucide-react": "^1.24.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "vite": "6.4.2"
+  }
+}
