@@ -124,6 +124,8 @@ npm run preview
 
 ## 相关文档
 
+- [产品 PRD：AI 商品短视频生成工作台](docs/prd-workbench.md) —— 用户端需求范围与核心流程定义
+- [平台运营后台 PRD](docs/prd-platform-admin.md) —— 运营后台模块与经营数据设计
 - [竞品分析与差异化定位](docs/competitive-analysis.md) —— 三类竞争力量、能力对比矩阵、MVP 策略与验证指标
 - [设计 QA 记录](docs/design-qa.md) —— 模块化重建过程、对齐修复与验收结果
 - [全模块截图归档](docs/screenshots-archive/截图目录.md) —— 49 张用户端原型图与索引
